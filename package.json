@@ -1,5 +1,5 @@
 {
-  "name": "iobroker.virtualpowermeter",
+  "name": "iobroker.virtuelleStromgeraete",
   "version": "1.4.2",
   "description": "Generates virtual electricity meters",
   "author": {
